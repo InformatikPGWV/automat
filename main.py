@@ -5,27 +5,27 @@ from os import system, name
 
 products = {
     1:{
-        "name":"Kinder Malo Double Pack",
+        "name":"Kinder Bueno Double Pack",
         "price": 1.20,
         "quantity": 15
     },
     2:{
-        "name":"N&Ns Poopbrown Chocolate",
+        "name":"M&Ms Chocolate",
         "price": 1.50,
         "quantity": 42
     },
     3:{
-        "name":"N&Ns Yellow Chocolate",
+        "name":"M&Ms White Chocolate",
         "price": 1.70,
         "quantity": 1
     },
     4:{
-        "name":"Haribo Gummikinder",
+        "name":"Haribo Gummibärchen",
         "price": 1.80,
         "quantity": 0
     },
     5:{
-        "name":"Kinder Stange Double Pack",
+        "name":"Mettwurst",
         "price": 1.20,
         "quantity": 10
     }
