@@ -55,7 +55,7 @@ def select_product():
         askMoney()
 
     try:
-        selected_product = int(select_product)
+        selected_product = int(selected_product)
     except:
         clearScreen()
         print("[red]Es ist ein Fehler aufgetreten![/red]")
