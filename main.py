@@ -132,14 +132,9 @@ def clearScreen():
         system('cls')
     else:
         system('clear')
-    
-def intro():
-    print("Guten Tag")
-    askMoney()
 
 def main():
-    intro()
+    askMoney()
     
-
 if __name__ == "__main__":
     main()
